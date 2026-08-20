@@ -1,0 +1,90 @@
+[
+  {
+    "bot_id": "fb_comment_marketing",
+    "title": "📢 FB Comment Marketing",
+    "category": "MARKETING BOT",
+    "desc": "Detect Facebook Reels containing WhatsApp/Telegram link comments and auto-post promo comments!",
+    "is_free": false,
+    "price_usd": 10.0,
+    "requires_license": true,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/fb_comment_marketing.py"
+  },
+  {
+    "bot_id": "fb_reels_commenter",
+    "title": "💬 FB Reels Auto Commenter",
+    "category": "COMMENTER",
+    "desc": "Automatically post custom line-by-line comments on target Facebook Reels videos!",
+    "is_free": false,
+    "price_usd": 10.0,
+    "requires_license": true,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/fb_reels_commenter.py"
+  },
+  {
+    "bot_id": "single_video_publisher",
+    "title": "📹 FB Bulk Video Publisher",
+    "category": "PUBLISHER",
+    "desc": "Publish video files across target Facebook IDs in parallel multi-thread browsers!",
+    "is_free": false,
+    "price_usd": 6.0,
+    "requires_license": true,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/single_video_publisher.py"
+  },
+  {
+    "bot_id": "fb_page_creator",
+    "title": "🚩 FB Page Creator",
+    "category": "PAGE CREATOR",
+    "desc": "Automatically create Facebook Pages across accounts using direct list or Excel fields!",
+    "is_free": true,
+    "price_usd": 0.0,
+    "requires_license": false,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/fb_page_creator.py"
+  },
+  {
+    "bot_id": "fb_story_uploader",
+    "title": "📸 FB Story Auto Uploader",
+    "category": "STORY UPLOADER",
+    "desc": "Automatically publish custom Facebook Stories across target profiles!",
+    "is_free": true,
+    "price_usd": 0.0,
+    "requires_license": false,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/fb_story_uploader.py"
+  },
+  {
+    "bot_id": "fb_profile_warmup",
+    "title": "🔥 FB Profile Warmup Engine",
+    "category": "WARMUP ENGINE",
+    "desc": "Simulate realistic human interactions (Newsfeed scroll, Reels watch, likes) to boost trust score!",
+    "is_free": true,
+    "price_usd": 0.0,
+    "requires_license": false,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/fb_profile_warmup.py"
+  },
+  {
+    "bot_id": "fb_bulk_login",
+    "title": "🔐 FB Bulk ID Login",
+    "category": "LIVE CHECKER",
+    "desc": "Verify live logins for Excel accounts (UID, Password, Cookie). Invalid accounts are auto-deleted!",
+    "is_free": true,
+    "price_usd": 0.0,
+    "requires_license": false,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/fb_bulk_login.py"
+  },
+  {
+    "bot_id": "fb_reels_algo_trainer",
+    "title": "🧠 FB Reels Algo Trainer",
+    "category": "ALGORITHM TRAINER",
+    "desc": "Train new Facebook profile algorithms by feeding target category Reels links before running bots!",
+    "is_free": false,
+    "price_usd": 10.0,
+    "requires_license": true,
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/bots/fb_reels_algo_trainer.py"
+  }
+]
