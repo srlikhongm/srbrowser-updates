@@ -1,0 +1,18 @@
+[
+  {
+    "tool_id": "comment_formatter_tool",
+    "name": "🛠️ Comment Line-by-Line Formatter & Converter",
+    "category": "UTILITY TOOL",
+    "description": "Convert multi-line text into clean 1-comment-per-line format with WhatsApp link support.",
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/tools/comment_formatter_tool.py"
+  },
+  {
+    "tool_id": "google_url_converter_tool",
+    "name": "🔗 Google Share Link Converter Tool",
+    "category": "URL TOOL",
+    "description": "Convert Mobile Google Share URLs into Google share handler format or vice versa.",
+    "version": "1.0.0",
+    "script_url": "https://raw.githubusercontent.com/srlikhongm/srbrowser-updates/main/tools/google_url_converter_tool.py"
+  }
+]
