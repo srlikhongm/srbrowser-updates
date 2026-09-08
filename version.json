@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.0",
-  "download_url": "https://github.com/srlikhongm/srbrowser-updates/releases/download/v1.0.0/srBrowser_v1.0.0.zip",
-  "changelog": "1. Initial Release of srBrowser v1.0.0\n2. Integrated Profiles Manager, Automation Engine, and Tools Store."
+  "latest_version": "2.1.0",
+  "download_url": "https://srbrowser.com/downloads/srBrowser_v2.1_Setup.exe",
+  "changelog": "🚀 srBrowser v2.1.0 Official Update:\n1. Multi-Profile Simultaneous Search (Comma/Space separated)\n2. Numeric Integer Sort Order (Newest First / Oldest First)\n3. Facebook Bulk ID Login Studio v2.3.1 Real-Time Reporting\n4. Bulk Edit Proxy Credentials & Bookmark Sync"
 }
